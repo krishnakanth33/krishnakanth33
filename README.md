@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnakanth33&label=Profile%20views&color=0e75b6&style=flat" alt="krishnakanth33" /> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Html, Css, React, Node.js, express.js, SQL, Python, Deep Learning**
 
